@@ -30,6 +30,12 @@ El objetivo de este reto es que puedan mejorar sus habilidades de maquetación c
 
     ![Opt 2](https://i.ibb.co/txqbK6n/p2.png)
 
-  * Hacer un fork al [repositorio](https://github.com/gracenikole/RetoDeMaquetaci-n.git) y subir tu rama con el nombre "Maquetacion-[Nickname o Nombre]" :3
+  * Hacer un Pull Request al [repositorio](https://github.com/gracenikole/RetoDeMaquetaci-n.git) y subir una carpeta con el nombre "Maquetacion-[Nickname o Nombre]" 
 
-> Puedes usar las imágenes que quieras al igual que los íconos y demás.
+  * Dentro de esa carpeta debe encontrarse tus archivos de HTML y CSS :3
+
+  * Puedes usar las imágenes que quieras al igual que los íconos y demás.
+    
+    
+
+> Si no sabes cómo hacer un Pull Request(PR), este [link](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) les será de mucha utilidad uwu
