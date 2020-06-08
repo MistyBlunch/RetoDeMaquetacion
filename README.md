@@ -18,17 +18,17 @@ El objetivo de este reto es que puedan mejorar sus habilidades de maquetación c
 
   * Todos deben hacer el Navbar*
 
-  ![navbar](C:\Users\grace\OneDrive\Imágenes\Álbum de cámara\p0.png)
+  ![navbar](https://ibb.co/mHDjzSw)
 
   * Escojer cuál de las 2 opciones de abajo maquetarán, si gustan pueden hacer las 2 :frog:
 
   * Opción 1:
 
-    ![opt1](C:\Users\grace\OneDrive\Imágenes\Álbum de cámara\p1.1.png)
+    ![opt1](https://ibb.co/mHDjzSw)
 
   * Opción 2:
 
-    ![Opt 2](C:\Users\grace\OneDrive\Imágenes\Álbum de cámara\p2.png)
+    ![Opt 2](https://ibb.co/WPkc5X7)
 
   * Subir su rama al [repositorio](https://github.com/gracenikole/RetoDeMaquetaci-n.git)  :3
 
