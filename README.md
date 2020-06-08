@@ -18,17 +18,17 @@ El objetivo de este reto es que puedan mejorar sus habilidades de maquetación c
 
   * Todos deben hacer el Navbar*
 
-  ![navbar](https://ibb.co/mHDjzSw)
+  ![navbar](https://i.ibb.co/D7VJKLy/p0.png)
 
   * Escojer cuál de las 2 opciones de abajo maquetarán, si gustan pueden hacer las 2 :frog:
 
   * Opción 1:
 
-    ![opt1](https://ibb.co/mHDjzSw)
+    ![opt1](https://i.ibb.co/d2HYhLs/p1-1.png)
 
   * Opción 2:
 
-    ![Opt 2](https://ibb.co/WPkc5X7)
+    ![Opt 2](https://i.ibb.co/txqbK6n/p2.png)
 
   * Subir su rama al [repositorio](https://github.com/gracenikole/RetoDeMaquetaci-n.git)  :3
 
