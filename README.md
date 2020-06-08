@@ -30,6 +30,6 @@ El objetivo de este reto es que puedan mejorar sus habilidades de maquetación c
 
     ![Opt 2](https://i.ibb.co/txqbK6n/p2.png)
 
-  * Hacer un fork a [repositorio](https://github.com/gracenikole/RetoDeMaquetaci-n.git) y subir tu rama con el nombre "Maquetacion-[Nickname o Nombre]" :3
+  * Hacer un fork al [repositorio](https://github.com/gracenikole/RetoDeMaquetaci-n.git) y subir tu rama con el nombre "Maquetacion-[Nickname o Nombre]" :3
 
 > Puedes usar las imágenes que quieras al igual que los íconos y demás.
